@@ -1,7 +1,7 @@
 [
   [
     {
-      "value": " 18/8/2025\nDay 1\nMonday",
+      "value": " 18/8/2025             Day 1               Monday",
       "bg": "#ffffff",
       "rowspan": 12,
       "colspan": 1
@@ -67,7 +67,7 @@
       "bg": "#ffffff"
     },
     {
-      "value": "Keynote Lecture on \"Mastering IAQ: the 5Ws and H Decoded\" by                                                                   Chandra Sekhar, National University of Singapore",
+      "value": "Keynote Lecture                                                          Mastering IAQ: the 5Ws and H Decoded                                                                            Chandra Sekhar, National University of Singapore",
       "bg": "#ffffff"
     },
     {
@@ -89,7 +89,7 @@
       "bg": "#ffffff"
     },
     {
-      "value": "\nKeynote Lecture on \"Continuous Indoor Air Quality Sensing: The Next Frontier of the Built Environment? by                                                                  Dusan Licina, EPFL , Switerland",
+      "value": "Keynote Lecture                                                         Continuous Indoor Air Quality Sensing: The Next Frontier of the Built Environment                                  Dusan Licina, EPFL , Switerland",
       "bg": "#ffffff"
     },
     {
@@ -157,19 +157,19 @@
       "bg": "#ffffff"
     },
     {
-      "value": "Workshop by EPFL                                                                                    Development and Exploitation of the First Global IAQ Database                                                         Bowen Du, Dusan Licina, Corinne Mandin, Pawel Wargocki           ",
+      "value": "Workshop by EPFL                                                                                    Development and Exploitation of the First Global IAQ Database                                                                              Bowen Du, Dusan Licina, Corinne Mandin, Pawel Wargocki           ",
       "bg": "#ffffff"
     },
     {
-      "value": "Workshop by ICHHA                                                                                          Making new and existing buildings conducive to prevention of infection -an Indian experience                                                                                                 Dr Vijay Yeldandi, Dr Satish Kaipilyawar, Dr Sampada Bhide, Ar Aditi U. Jani, Dr Raja Singh",
+      "value": "Workshop by ICHHA                                                                                          Making new and existing buildings conducive to prevention of infection -an Indian experience                                                                                                 Vijay Yeldandi,  Satish Kaipilyawar,  Sampada Bhide, Aditi U. Jani,  Raja Singh",
       "bg": "#ffffff"
     },
     {
-      "value": "Session by EDS Global on Implementing Healthy Buildings: Success Stories",
+      "value": "Online Presentations                                                                                                                                                                                                                                                                                                    ",
       "bg": "#ffffff"
     },
     {
-      "value": "Advanced Room Air Distribution and Ventilation                                         Investigation of Size-Segregated Particle Penetration and Infiltration Dynamics in an Analytical Laboratories\nPrashant Nawale, Mohd Zaid, Manoranjan Sahu\nMultizonal Modeling in a Residential Apartment Using Physics Informed Long Short-Term Memory Approach\nAlok Kumar Thakur, Sameer Patel\nInfluence Of Aspect Ratio And The Height Of The Built Space On Iaq And Temperature Distribution Within The Institutional Kitchen Environment\nJesna Mathew, Subbaiyan G\nDistributional Mapping of PM2.5 and CO2 in a Multizonal Apartment Using Spatio-Temporal (Graph Convolution Network and Graph Attention Network)\nAlok Kumar Thakur, Nishchaya Kumar Mishra, Sameer Patel\nIdentifying Ventilation Strategies for Healthier Classrooms using Spatial Modelling of Indoor Carbon Dioxide Concentrations\nRavinder Arigela, Sathish Kannan, Pranjal Jejurkar, Virendra Sethi, Krishnendu Sinha, Srinidhi Balasubramanian, Srinidhi Balasubramanian\nInvestigating CO2 based Indoor Air Quality of Classroom using Experimental Measurements and Computational Fluid Dynamics Approach\nMahima Pareek, Avnish Shukla, Sairam Jinnawar, Krishnendu Sinha\nAssessment of CFD Modelling of Ceiling Fan for Predicting Indoor Air Quality and Airborne Infection\nSourabh Nandi, Paul Jacob, Lagoon Biswal, Janani Murallidharan, Amit Agrawal, Rajneesh Bhardwaj, Krishnendu Sinha\nMultidirectional wind deflectors in Dublin city- A Real world analysis\nMadhavan Vasudevan, Ratnakishore Velamati, Francesco Pilla, John Gallagher, Aonghus McNabola",
+      "value": "Oral Presentations                                                         Advanced Room Air Distribution and Ventilation                                       ",
       "bg": "#ffffff"
     }
   ],
@@ -195,15 +195,15 @@
       "bg": "#ffffff"
     },
     {
-      "value": "Challenges of Achieving Healthy Buildings in Developing Economies                                                                                                               The Multifaceted Influence Of Indoor Plants On Indoor Air Quality And Occupant Well-Being                                                                                              Hind Rasheed, Jayasree T K                                                                 Optimization of Affordable and Durable Retrofitting Solutions for Vernacular Buildings in Rural India: A Multi-Objective Approach  Dharavath Jaicharan, Jayasree TK, Deepthi Bendi, Neelima Geetha Archana                                                                                                                  Thermal Envelope Performance of Commercial Space in a High Rise and High Density Setting                                                                                     Tirth Shah, Krishan Upadhyay                                                                     Artificial Intelligence (AI) in Building Science Research: Are We on the Right Track?                                                                                                      Ardeshir Mahdavi, Prashant Anand, Christiane Berger, Ajith N Nair, Krithika Panicker                                                                                       Development of a Deep Learning Algorithm for Size Classification of Indoor Microplastics                                                                                           Sruthy Robert, Sonal Ayyappan, Ratish Menon                                             Impact of household ventilation on unequal exposure to cooking - a model analysis on rural buildings                                                                     Mrinmoy Chakraborty, Milind Kandlikar, Naomi Zimmerman, Amanda Giang                                                                                                                          Healthy Buildings: Scaling Built Environments with Improved Indoor Air Quality                                                                                                         Deepanjali Wadkdar, Nidhi Gupta, Gurneet Singh                                                                       ",
+      "value": "Oral Presentations                                                     Challenges of Achieving Healthy Buildings in Developing Economies                                                                                                                                                                                   ",
       "bg": "#ffffff"
     },
     {
-      "value": "Indoor Environmental Quality (IEQ) monitoring and Performance metrics, Sensors, IoT, Measurement protocols, Dashboards, Data Analytics                                                                                                                Passive and Active Solutions for Formaldehyde Mitigation in Office Buildings                                                                                                                           E V S Kiran Kumar Donthu, Shivraj Dhaka, Tanya Kaur Bedi                                                                               Exploring Emissions from Traditional Cookstoves in Rural Rajasthan: Challenges and Insights                                                                                   Abhijeet Mondal, Anjali Rathee, Dr. Rajyalakshmi Garaga                                                                                  Assessing Respiratory Health Impacts of Traditional Fuels in different Built Environments in Northwest Rajasthan                                               Harshita Karri, Dr Rajyalakshmi Garaga                                                                                           A Study on the Relationship Between the Objective Assessment of the Provisional ?CASBEE-Wellness Real Estate? System and Subjective Evaluations from a Questionnaire                                                                     Koga Nakamura, Tatsuya Hayashi Survey          \nDeveloping Residential Building Archetypes for India  Charles Divyateja Bontha, Aakash C. Rai, Aakash C. Rai                                                    Influence Of Indoor Environmental Conditions On Sleep Quality Among University Students In India                                                                              Asmita Addya, Anubha Goel, Pawel Wargocki                                                                      Does radon have health effects other than lung cancer? A systematic review and meta-analysis                                                                                      Corinne Mandin, Afi Mawulawoe Sylvie Henyoh, Olivier Laurent, Enora Clero                                                                                                                      Modeling Indoor Air Quality in a Hostel Mess Using CONTAM   Abdullahi Mohamed Sheikh Ali, Mukesh Khare, Arvind K. Nema, Sri Harsha Kota",
+      "value": "Oral Presentations                                                            Indoor Environmental Quality (IEQ) monitoring and Performance metrics, Sensors, IoT, Measurement protocols, Dashboards, Data Analytics                                                                                                                              ",
       "bg": "#ffffff"
     },
     {
-      "value": "Design: Human-Centric Design and HVAC Strategies for Occupant Comfort, Health, and Well-Being                                                               Development of Residential Air Conditioning Equipment for Health Risk Prevention and Health Promotion -Subject experiment on the effects of different room temperature lowering speeds on physiological responses and psychological declarations (in winter)                             Sakyo Okada                                                                                                      Surviving indoor heat stress in Indian cities: Urban to building-scale impacts assessment on occupant thermal comfort                                  Nilabhra Mondal, Prashant Anand                                                                           A Deep reinforcement learning agent for Optimizing Personal Exposure, Energy consumption, and thermal Comfort (DOPEEC)   Nishchaya Kumar Mishra, Nipun Batra, Sameer Patel                                                                                                           Realtime Optimization of Personal Exposure to Particulate Matter, Energy Consumption, and Thermal Comfort in a House                    Nishchaya Kumar Mishra, Marina E. Vance, Atila Novoselac, Sameer Patel                                                                                                                     Assessing the Impact of Indoor Environmental Conditions, PM?.? Levels, on Creativity Using EEG and Sensory Devices                              Farhan Asim, Shreya Rai, P S Chani, Venu Shree, Sandeep Budde                                                                                                 H&W Certification Tool for Enhancing Occupational Health and Proposed Interventions in Building Design & Operation                       Shivraj Dhaka, Nisha Dugar                                                                            Energy And Capex Analysis For Air Purification And Ventilation Strategies In Residential Buildings                                                            Shubham Solanki, Anmol Mathur                                                                 ",
+      "value": "Oral Presentations                                                          Design: Human-Centric Design and HVAC Strategies for Occupant Comfort, Health, and Well-Being                                                                                                                                               ",
       "bg": "#ffffff"
     }
   ],
@@ -213,7 +213,7 @@
       "bg": "#ffffff"
     },
     {
-      "value": "\nCultural Night followed by Dinner",
+      "value": "Cultural Night followed by Dinner",
       "bg": "#ffffff"
     },
     {
@@ -233,15 +233,23 @@
     {
       "value": "19/8/2025             Day 2               Tuesday",
       "bg": "#ffffff",
-      "rowspan": 9,
+      "rowspan": 10,
       "colspan": 1
     },
+    {
+      "value": "19/8/2025             Day 2               Tuesday",
+      "bg": "#941651",
+      "rowspan": 1,
+      "colspan": 5
+    }
+  ],
+  [
     {
       "value": "08:45 - 09:30",
       "bg": "#ffffff"
     },
     {
-      "value": "Keynote Lecture on ?Toxins in the Indoor Environment: Contaminants from Workplaces and the Ambient Environment? by                                Arthur Frank, Drexel University",
+      "value": "Keynote Lecture                                                                   Toxins in the Indoor Environment: Contaminants from Workplaces and the Ambient Environment                                                 Arthur Frank, Drexel University",
       "bg": "#ffffff"
     },
     {
@@ -263,7 +271,7 @@
       "bg": "#ffffff"
     },
     {
-      "value": "Keynote Lecture on \"Beyond Health & Comfort: Exploring retrofit impacts on resident wellbeing\" by                                                             Marianne Touchie, University of Toronto",
+      "value": "Keynote Lecture                                                              Beyond Health & Comfort: Exploring retrofit impacts on resident wellbeing                                                           Marianne Touchie, University of Toronto",
       "bg": "#ffffff"
     },
     {
@@ -297,7 +305,7 @@
       "bg": "#ffffff"
     },
     {
-      "value": "Workshop by Centre For Sustainability, Mahindra University on          ?From Research to Reality : Bridging Air Quality Science, Industry and Policy for Healthier Urban Built Environment",
+      "value": "                                                                                           Workshop by Centre For Sustainability, Mahindra University                                                                              From Research to Reality : Bridging Air Quality Science, Industry and Policy for Healthier Urban Built Environment.                                                                        Mukesh Sharma, Akanksha Priyadarshini, Anirban Ghosh, S. Narsing Rao, Sunita Purushottam, Prarthana Borah.\n",
       "bg": "#ffffff"
     },
     {
@@ -305,11 +313,11 @@
       "bg": "#ffffff"
     },
     {
-      "value": "Camfil Presents - Aerosols, Particulate Matter, VOC's and Air Cleaning                                                                                                                                                 Impact Of Advanced Filter Media On Indoor Air Quality And Energy Performance Of Buildings In Regions With High Particulate Matter Pollution                                                                                                                    Pooja Shukla, Shashank Mishra, Mohammed Umar                                                  Navigating Indoor Air Pollution: Research Insights on Understanding Pollutants, Mitigation Strategies, and Emerging Technologies.   Janmejoy Gupta, Neha MP                                                                             Climate Change Adaptation and Mitigate Measures for the Impact of Air Pollution in Indian Metropolitan City                                                              AJAYA INDRANI, Shailendra Kumar Mandal, Kamini Sinha                                                                                                                                                               A Side-by-Side Comparative study on change in effectiveness of Hybrid Air Cleaner when tested in accredited laboratory environment versus real site with centrally air conditioned space scenario for Tackling PM and Toxins                                                                                                                 KAPIL KAPOOR, Parvinder Kaur Kapoor, Avinash Kumar                                                           Performance comparison of commercially available unipolar standalone ionisation devices in terms of particulate matter capture Aiswarya Kumar, Prashant Nawale, Manoranjan Sahu Sahu\nAmbient Air Quality and Air Cleaning Strategies in India             Christopher Muller                                                                                                                                            Botanical biofilters degrade toxic indoor air pollutants                          Allan Augusto Alvarado Alvarado, Siegfried Denys, Wenke Smets                                                                                                                              Air purification for removal of volatile organic compounds in a controlled indoor environment                                                                             Nigel Goodman, Max Rounds, Kevin Kevin, Martine Dennekamp, Jen Martin, Behzad Rismanchi, Jason Monty, Sotiris Vardoulakis, Amanda Wheeler, Amanda Wheeler, ",
+      "value": "Oral Presentations                                                       Airborne Infection Transmission, Control, and Molds                                                                                                                 ",
       "bg": "#ffffff"
     },
     {
-      "value": "IEQ Monitoring, Performance Metrics, Sensors, IoT, MeasurementProtocols, Dashboards, Data Analytics                                                                                                                                                                                      Emissions of volatile organic compounds from cleaning, disinfecting and careproducts used in daycare centers from the French CRESPI cohort                                                                                                                     M?lanie Nicolas, Pierre Bonnet, Orianne Dumas, Doriane Rousselle, Priscilla Thiry, Nicole Le Moual, Corinne Mandin                                                                                                                                                                            Thermal Comfort Assessment and Optimization in Residential Buildings: Integrating Vastu Shastra Principles with Advanced Simulation Tools                                                                                                ANURAG AMAN KAUSHAL, Prashant Anand, Bharath Haridas Aithal                                               Indoor Air Quality in a Delhi School: Data-Driven Insights from a Monitoring Study                                                                                             Lakshmy N, Abdullah Kidwai, Rajeev Kumar, Nikunj Shukla, Ashish Gupta, Nidhi Gupta, PiyushVarma, Gurneet Singh                                                                                                                                Critical review of literature assessing indoor air quality (IAQ) in green buildings                                                                                                                  Udita Gupta, Wendy Miller, Richard Brown, Lidia Morawska                                                                                                                                                                         Comprehensive analysis of an Informal Settlement for Thermal Comfort.                                                                                                       Dhanashree Yadav, Namrata Dhamankar, Dr. Prajakta Kulkarni                                                                                                                                                                                         Design Considerations for Developing Compact and Low-Cost Light Scattering-based PM IoT Devices.                                                                  Roshan Yadav, Rajesh Zele,  Abhishek Chakraborty                                                                                                                                                                 A Multidisciplinary Institutional Approach to Study IAQ in Classrooms to MitigateAirborne Disease Transmission Risk                                 Pushpesh Singh, Ravinder Arigela, Srinidhi Balasubramanian, Krishnendu Sinha                                                                                                               Techniques and Trends in Indoor Pollen Monitoring and Analysis\nSachin Dhawan, Mukesh Khare, Dalip Singh Mehta, Ekta Sharma",
+      "value": "Oral Presentations                                                                  IEQ Monitoring, Performance Metrics, Sensors, IoT, MeasurementProtocols, Dashboards, Data Analytics                                                                                                                                                                                      ",
       "bg": "#ffffff"
     }
   ],
@@ -331,7 +339,7 @@
       "bg": "#ffffff"
     },
     {
-      "value": "Panel Discussion on                                                                                                 Is IAQ research on the right track or veering off course ?              Moderator :- Corinne Mandin",
+      "value": "Panel Discussion on                                                                                                 Is IAQ research on the right track or veering off course ?                                                                      Moderator :- Corinne Mandin                                  Panelist:-   Ardeshir Mahdavi, Prasanth Kumar, Priya Rajagopalan                   ",
       "bg": "#ffffff"
     },
     {
@@ -361,11 +369,11 @@
       "bg": "#ffffff"
     },
     {
-      "value": "IIT Bombay's Curated Session on \"Institutional Frameworks for Improving Indoor Air Quality in Air-Conditioned Classrooms and Corporate Offices\"",
+      "value": "IIT Bombay's Curated Session                              \"Institutional Frameworks for Improving Indoor Air Quality in Air-Conditioned Classrooms and Corporate Offices?                                                                                 Only invited participants and guests are permitted to attend this session.",
       "bg": "#ffffff"
     },
     {
-      "value": "Online Presentations                                                                                                                                                        Bi-level strategies for Micro-Zonal Occupant-Centric Control (MZOCC) to reduceHVAC energy consumption                                                                 Jeslu Celine Jacob, Debapratim Pandit, Joy Sen                                                                                                                                                                      Exposure to elevated indoor carbon dioxide may affect students? cognitiveperformance: A meta-analytic review of randomized controlled trials                                                                                              Guangtao Fan, Taibo He, Zhongming Huang, Qihong Deng                                                                                                                               Air Quality Monitoring and Modelling in School Classrooms                   Jierui Dong, Nigel Goodman, Priyadarsini Rajagopalan                                                                                          Evaluating the Impact of Building Insulation Materials on Indoor Air Quality, CognitiveHealth, and Embodied Carbon in Buildings             Neelima Geetha Archana Madasu, Sanand Maddipati, Dongwoo Jason Yeom, Philip Horton, ElhamFini, Ajay Therala                                                            Residential VOC from Building Materials: Exposures, Health Risks, and Ambient Hazards\nYi Fan, Jianyin Xiong, Shaodan Huang                                                                                                                                                Variations in Winter HVAC Utilization Habits Across China's Climate Zones and TheirEffects on Arthritis Symptoms in Elderly People            Yan Zhang                                                                                                                                                                           ",
+      "value": "Session by EDS Global                                        Implementing Healthy Buildings: Success Stories          Gurneet Singh, Nidhi Gupta, Lakshmy N, Mariyam Zakiah",
       "bg": "#ffffff"
     }
   ],
@@ -391,15 +399,15 @@
       "bg": "#ffffff"
     },
     {
-      "value": "Workshop by University of Nirma University\n                                                                                                                            Enhancing Indoor Thermal Comfort in Residential Buildings through NaturalVentilation: A Hands-On CFD Simulation Workshop               Krishan Upadhyay, Shobhit Chaturvedi",
+      "value": "Workshop by University of Nirma University                                                                                                                            Enhancing Indoor Thermal Comfort in Residential Buildings through NaturalVentilation: A Hands-On CFD Simulation Workshop                                          Krishan Upadhyay, Shobhit Chaturvedi",
       "bg": "#ffffff"
     },
     {
-      "value": "Airborne Infection Transmission, Control, and Molds                     Criteria for partition placement to prevent ventilation deterioration  Miguel Yamamoto, Satoshi Hori, Shin-ichi Tanabe, Akihiro Kawamura, Hisashi Hasebe, Keichi Suzuki                                                                                                                                                          Advancing UV Disinfection: Insights and Optimization Strategies from CFD based UV dose model                                                                          Sudhanshu Pandey, Hannu Salmela, Aku Karvinen, Jani Hakala                   Influence of shower head design on particle and bioaerosol generation from adomestic type shower                                                                            Amber Brennan, Emma Tidswell, Duncan Borman, Nikil Kapur, Catherine Noakes                                                                                                                       Evaluating the Influence of Ventilation Type and Fixture Placement on theEffectiveness of Upper Room UVGI in Reducing Airborne Infectious AerosolConcentration in a Classroom                                                              Youngbo Won, William Bahnfleth                                                      Assessment of Factors affecting Indoor Microbiome Pollution in Schools\nAkanksha Pharande, Sujata Karve                                                                                             Possible inter-room aerosol-mediated COVID-19 transmission in a quarantine hotel: a case study                                                                        Merrill Lim, Junjing Yang, Sze Tat Tan, Man Xiao, Chun Ping Gao,Vernon Lee, Yee Leong Teoh, James Chan, Lin Cui, Yichen Ding, Joanna Shen,Ruixin Li, Jang-Young Lee, Alvin Seoh, ShuzhenSim, Lee Ching Ng                                                                                                        Modulation of Indoor Microbiota through the Introduction of Indoor Plants\nSupreet Kaur, Dr. Sumit Kumar Mishra, Dr. Venkata Ramana, Madhu Tiwari, Kartika Pandey, MamtaDevi, Dr. Randeep Guleria",
+      "value": "Camfil Presents Oral Presentations                        Aerosols, Particulate Matter, VOC's and Air Cleaning                                                                                                                                                 ",
       "bg": "#ffffff"
     },
     {
-      "value": "Thermal Comfort Including Personal Comfort Systems, Adaptive Comfort,Dynamic Thermal Perception and Aliesthesia                                                                                                                                                                                                            Investigating Indoor Airflow: Real-Scale Flow Field Measurement Using Streak Velocimetry                                                                                                Girish Naik,Sairam Jinnawar,Manaswita Bose,Krishnendu Sinha                                                                                                                                         Thermal comfort of adolescent children ? Engaging children for improving reliabilityof responses                                                                         Asit Kumar Mishra, Pawel Wargocki, Alice Caporale                                                                                                                                                                              Dynamic Origami Facades: A Comparative Study On Enhancing Energyefficiency And Daylight Optimisation In Building Design            Arshad ul Islam N, Bimal P                                                                      Multisensory synergies and conflicts in occupant adaptation to semi-outdoor environments                                                                                            Kun Lyu, Arianna Brambilla, Anastasia Globa, Richard de Dear                                                                                    Thermal Comfort Modeling in Split Air-Conditioned Buildings: A Machine Learning Approach                                                                                Ajith N Nair, Prashant Anand, Ardeshir Mahdavi                                                                                                                                                                       Evaluation of Passenger?s comfort Vote(PCV) and Discomfort Index(DI) forpassengers travelling in non-air conditioned railway coach during summer                                                                                                               Shashank Shekhar Mishra, Nisha Netam, Vivek Gaba                                                                                                                         Investigating The Effect Of Canyon Aspect Ratio On Thermal Comfortthrough Mutual Shading And Natural Ventilation Potential Inresidential Urban Blocks Of Warm-Humid Climate                                                                                       Milan Ben, Subbaiyan G                                                                                            Assessment of occupant's thermal comfort and performance in naturally ventilated buildings                                                                      Virendra Sharma, Faizan Ahmad Wani, Jyotirmay Mathur, Sanjay Mathur    ",
+      "value": "Oral Presentations                                                         Thermal Comfort Including Personal Comfort Systems, Adaptive Comfort,Dynamic Thermal Perception and Aliesthesia                                                                                                                                                                                                            \n",
       "bg": "#ffffff"
     }
   ],
@@ -407,15 +415,23 @@
     {
       "value": "20/8/2025             Day 3               Wednesday",
       "bg": "#ffffff",
-      "rowspan": 8,
+      "rowspan": 9,
       "colspan": 1
     },
+    {
+      "value": "20/8/2025             Day 3               Wednesday",
+      "bg": "#941651",
+      "rowspan": 1,
+      "colspan": 5
+    }
+  ],
+  [
     {
       "value": "09:00 - 09:45",
       "bg": "#ffffff"
     },
     {
-      "value": "Keynote Lecture on \"Bridging Domains: Emphasizing Human Needs in the Quest for Human-Building-Resilience\" by                                            Marcel Schweiker, RWTH Aachen University",
+      "value": "Keynote Lecture                                                             Bridging Domains: Emphasizing Human Needs in the Quest for Human-Building-Resilience                                            Marcel Schweiker, RWTH Aachen University",
       "bg": "#ffffff"
     },
     {
@@ -459,7 +475,7 @@
       "bg": "#ffffff"
     },
     {
-      "value": "Tea Break with Poster Session at Expo Area                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Post-Occupancy Evaluation of Courtyard Spaces in Undergraduate Girls' Hostels: Assessing Occupant Satisfaction\t \nParul Shelar, Dr. A. Meenatchi Sundaram\nAssessment Of Relationship between Thermal Comfort, Occupant Behavior, and\nClassroom Characteristics in Higher Education Institutions A Case of College of Engineering Trivandrum\nDiya Pradeep, Dr.Deepa Rani R\nNatural insulation is the way to the future; Analysis of insulation effectiveness, energy consumption, and indoor thermal comfort for future climates\nAritro De, Michael Garrison\nBehavioral Acumen for Sustainable Living: Examining Residential Energy Use in India\nDeepali Ranavainshaw, Shankha Pratim Bhattacharya\nMeasurement of Ultrafine Particle and Black Carbon Air Pollution Exposure in Indoor and Outdoor of Residential Areas of Dhaka City\nMd. Jahirul Islam, Niloy Dhar, Rivan Chandra Roy, Provat Kumar Saha\nInvestigating Urban Planning Policies towards Healthy Habitat: A Case of Indian Himalayan Region\t \nMehul Chaudhary, Dr Venu Shree\nPost Occupancy Evaluation: Study of Environmental Satisfaction and Work Productivity through Hot Desking System                                                                                                                                                                                                                                                                                                                                       Shreya Satodia\t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Impact of urban settings on indoor particle number concentrations: A case study from Delhi\t \nMONIKA SHARMA, Mukesh Khare, Rajeev Kumar Mishra\nStudy on the thermal environment in junior high school gymnasiums during evacuation\t \nFubuki Morihara, Ryouichi Kuwahara\nComparative Study of the Thermal Environment of Existing Government Buildings and Its Impact on Intellectual Productivity\t \nImagawa Kouki, Ryoichi Kuwahara\nEffects of humidity conditions in an isothermal environment on stress, arousal, fatigue, and task performance\t \nJin Ishii\n?Evaluating the Role of School Environmental Quality factors in Shaping Student\nHealth & wellbeing and Parental Preferences: A Comparative Study of Private and Government Schools?\nMansi Mokashi, Sujata Karve\nAssessing Insulation Needs in Residential Buildings: Model Development and Validation\t \nJaberswamy S, Aakash C. Rai, Aakash C. Rai\nAssessing the placement of HEPA air cleaners in a multi-zone hospital ward to reduce infection risk\nAnushi Khandare, Alexander Edwards, Catherine Naokes, Martin Lopez-Garcia, Marco-Felipe King, Louise Fletcher, Andrew Carnegie\nPerceived Productivity, Discomfort, and Sensory Interactions: Evaluating the Combined Effects of IAQ, Acoustic, and Visual Environments\t \nTanmay Dave, Rune Korsholm Andersen, Pawel Wargocki                                                                                                                                                                                                                                                                                                                                                                                                                                                           Indoor Air Quality Monitoring and Health Risk Assessment in Gyms                                                                                                                                                                                                                                                                                                                                                                                                                                                               Amrutha Prabhakar, ASWATHY E.V.",
+      "value": "Tea Break with Poster Session at Expo Area                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ",
       "bg": "#ffffff",
       "rowspan": 1,
       "colspan": 4
@@ -471,11 +487,11 @@
       "bg": "#ffffff"
     },
     {
-      "value": "Panel Discussion by Thrive                                          ?Healthy Buildings Revisited: Scientific, Regulatory, and Practical Perspectives on IAQ and IEQ\"Productivity, and Equity (AIR)\n",
+      "value": "Panel Discussion by Thrive                                         Healthy Buildings Revisited: Scientific, Regulatory, and Practical Perspectives on IAQ and IEQ\"Productivity, and Equity (AIR).                  Moderator :- Udita Gupta                                           Panelist:- Tham Kwok Kai, Pawel Wargocki, Chirag Deb, Srinidhi Balasubramanian?        \n",
       "bg": "#ffffff"
     },
     {
-      "value": "Workshop by Society for Indoor Environments (SIE)                                           Advancing Indoor Research for Health, Productivity, and Equity (AIR)\n Prof. Mukesh Khare, Dr. Rakesh Kumar, Dr. Priyanka Kulshreshtha, Dr. Sri Harsha Kota",
+      "value": "Workshop by                                                                          Society for Indoor Environments (SIE)                                           Advancing Indoor Research for Health, Productivity, and Equity (AIR)\n Mukesh Khare, Rakesh Kumar, Priyanka Kulshreshtha, Sri Harsha Kota",
       "bg": "#ffffff"
     },
     {
@@ -483,7 +499,7 @@
       "bg": "#ffffff"
     },
     {
-      "value": "IEQ Monitoring, Performance Metrics, Sensors, IoT, Measurement Protocols, Dashboards, Data Analytics                                                                                                                  Assessing the Influence of Different Ventilation Strategies on Indoor Radon Levels: A Case-Control Study.\t \nJames McGrath\nEffect of natural and mechanical ventilation in anticipating the occurrence of sick building syndrome (Case study: Pharmaceutical Laboratory in Surabaya)\t \nAprisia Rasya Murran\nIntegrated Measurement and Simulation for Optimizing Indoor Air Quality in Biosafety Laboratories\t \nNitesh Singh, Hamza H. S. Helal, Rahmai Aulia Pramudantoro, Fu-Jen Wang\nIndoor Environmental Quality-Ventilation-Energy Nexus: Rethinking Indoor Environments\t \nKhyati Upadhyay, Manoranjan Sahu\nAI-Driven Building Management: Bridging Gaps in Automation to Enhance Indoor Environmental Quality and Energy Efficiency.\t \nArsh Arora, Kevin Joshi, Ronak Sutaria\nAssessment of Indoor Air Quality across microenvironments: Implications for Particulate Matter and CO? exposure management\t \nRiya Verma, B.R. Gurjar, C.S.P. Ojha\nInvestigating the Relationship between Energy Use and IEQ in Tropical Office Building: Enhancing the quality of EEE for Retrofit Solutions.\t \nAbha Durgesh, K Thirumaran",
+      "value": "Oral Presentations                                                                 IEQ Monitoring, Performance Metrics, Sensors, IoT, Measurement Protocols, Dashboards, Data Analytics                                                                                                                  ",
       "bg": "#ffffff"
     }
   ],
@@ -509,7 +525,7 @@
       "bg": "#ffffff"
     },
     {
-      "value": "Workshop on                                                                                  Learning Cognitive Neurobehavioral Assessment Tools and their relation to Indoor Environmental Quality\t \nPiyali Debnath, Prashant Anand",
+      "value": "                                                                                                               Oral Presentations                                                         Thermal Comfort, Resilience and IEQ                                           \n\n\n\n",
       "bg": "#ffffff"
     },
     {
@@ -535,23 +551,23 @@
   ],
   [
     {
-      "value": "04:00 - 05:30 PM",
+      "value": "04:00 - 05:30",
       "bg": "#ffffff"
     },
     {
-      "value": "Thermal Comfort Including Personal Comfort Systems, Adaptive Comfort, Dynamic Thermal Perception and Aliesthesia                                                                                                     Thermal comfort and indoor air quality survey of air conditioned cars in India\n Snehangshu Mondal, Asit kumar Mishra, Maddali Ramgopal, Siddhartha Mukhopadhyay                                                                              Thermal radiation in high-temperature environments exacerbates the damage to human thermal responses and cognitive functions\nYingying Zhao, Weiwei Liu, Wargocki Pawel\nInterpretable AI Model for Indoor Thermal Comfort Prediction: A SHAP-Based Analysis Using Benchmark Dataset\t \nSimon Elias, Iyer Vijayalaxmi Kasinath\nOccupational Impact on Thermal Comfort Experiences in Rural Environments\nChaman Lal Pal, Nisha Netam\nCFD Validation of HVAC System Design with Fabric Ducts for Bio Domes at Doha Expo-2023: Achieving Optimal Indoor Environmental Conditions\t \nHashir PK, Veerasingam Subramanian, Fadil Sadooni, Saud Ghani\nAssessing the energy saving potential of personalized ventilation system in the Indian tropical climate\t \nKumar Naddunuri, Shankha Pratim Bhattacharya\nRole of Sacred groves in maintaining a sustainable ecosystem in Traditional Homesteads of Kerala-A case of Trivandrum\t \nRadhika Radhakrishnan, Dr. Deepa Rani R\nImpact of Building Orientation and Height on Thermal Conditions in Malaysian School Classrooms: A Field Study in Kuala Lumpur\nNor Sahidah Firman, Sheikh Ahmad Zaki, Ng Wai Tuck, Manoj Kumar Singh, Hom Bahadur Rijal, Samsol Faizal Anis",
+      "value": "Oral Presentations                                                          Thermal Comfort Including Personal Comfort Systems, Adaptive Comfort, Dynamic Thermal Perception and Aliesthesia                                                                                                     ",
       "bg": "#ffffff"
     },
     {
-      "value": "Workshop on                                                                                                  ?Optimizing Air Purifier Performance in High-Rise Commercial Buildings for Urban Air Quality Management?\n Nishanth Kapoor,  Sandeep Budde, NVSS Manapragada",
+      "value": "Workshop on                                                                                                  Optimizing Air Purifier Performance in High-Rise Commercial Buildings for Urban Air Quality Management                                                                 Nishanth Kapoor,  Sandeep Budde, NVSS Manapragada",
       "bg": "#ffffff"
     },
     {
-      "value": "Thermal Comfort, Resilience and IEQ                                           Microclimatic Variations and Indoor Thermal Comfort in a Residential Building During Heat Wave and Typical Summer Conditions in Nashik\n Ketaki Joshi, Prashant Anand\n IAQ resilience indicators\n Jelle Laverge                                                                                                    Behavioral and Socio-Economic Dimensions of Indoor Air Quality: Insights into Public Perceptions and Interventions in India\n Ritwik Agarwal, Vishal Garg, Jyotirmay Mathur, Prakarsh Singh, Aviruch Bhatia, Vishal Garg\n A Personalized PMV-Based Strategy for Coordinating Ceiling Fans and Air Conditioners\n Ramandeep Singh, Althaf Shaik, Anupama Kowli\n Adaptive Thermal Comfort and Smart Building Management: Case Studies of HVAC Optimization and IBMS Integration in Warm and Humid Climates\n Ketaki Gupte, Dr. Deva Dubey, Kundan Bharambe, Deepali Hegde\n Consumer Demand Perception of Thermal Comfort\n Shivani Senthilkumar, Poulomee Ghosh",
+      "value": "Workshop on                                                                                  Learning Cognitive Neurobehavioral Assessment Tools and their relation to Indoor Environmental Quality\t \nPiyali Debnath, Prashant Anand",
       "bg": "#ffffff"
     },
     {
-      "value": "Occupant Behavior, Lighting and Acoustics                                          Acoustic Comfort Benefit Analysis Of Sound Absorbing Materials: A Case Study\t \nMahesh K., Shailee Achal Goswami, Sreeja S.\nThe Effect Of Acoustic Barriers On Daylight In A Classroom\nAsvika K S, Subbaiyan G\nVisual and Thermal Comfort: An Exploratory Study on Understanding a Key Interface\nJaydeep Vaghela, Krishan Upadhyay\nThe effect of variations in self-pollutant concentration induced by changes in ventilation volume on the cognitive performance of individuals wearing masks.\nXinpeng Yang, Weiwei Liu, Pawel Wargocki, Xiaoyue Lang\nDeterminants of Comfort-Driven Energy Consumption in Indian Dwellings: A Household-level Perspective\t \nKRITHIKA PANICKER, Prashant Anand, Abraham George\nSeasonal Changes of Adaptive Behaviors for Improving Thermal Comfort in Urban Houses- A Case of Kharagpur, India\nSubhagata Mukhopadhyay, Kazuma Kawajiri, Nikhil Kumar, Dulis Dulis, Tetsu Kubota, Shankha Pratim Bhattacharya, Hanief Ariefman Sani",
+      "value": "Oral Presentations                                                      Occupant Behavior, Lighting and Acoustics                                       ",
       "bg": "#ffffff"
     }
   ],
@@ -559,15 +575,23 @@
     {
       "value": "21/8/2025             Day 4               Thrusday",
       "bg": "#ffffff",
-      "rowspan": 6,
+      "rowspan": 7,
       "colspan": 1
     },
     {
-      "value": "09:00 am - 09:45 am",
+      "value": "21/8/2025             Day 4               Thrusday",
+      "bg": "#941651",
+      "rowspan": 1,
+      "colspan": 5
+    }
+  ],
+  [
+    {
+      "value": "09:00 - 09:45",
       "bg": "#ffffff"
     },
     {
-      "value": "Keynote # 8",
+      "value": "Keynote                                                                   Demystifying Healthy Buildings: A Call for a Wider Practical Application and Affordability                      Pawel Wargocki , Denmark Technical University ",
       "bg": "#ffffff"
     },
     {
@@ -585,33 +609,11 @@
   ],
   [
     {
-      "value": "09:45 am - 10:30 am",
+      "value": "09:45 - 10:30",
       "bg": "#ffffff"
     },
     {
-      "value": "Keynote # 9",
-      "bg": "#ffffff"
-    },
-    {
-      "value": "",
-      "bg": "#ffffff"
-    },
-    {
-      "value": "",
-      "bg": "#ffffff"
-    },
-    {
-      "value": "",
-      "bg": "#ffffff"
-    }
-  ],
-  [
-    {
-      "value": "11:00 am - 12:30 pm",
-      "bg": "#ffffff"
-    },
-    {
-      "value": "Policy and Standards Trends, Impacts, Implications, and Advocacy                                                                                                                   The Future of IEQ Regulations - A View from North America                      William Bahnfleth.                                                                                            Thermal Comfort in Bullidings of Nepal: Policies, Practices, and Potential                                                                                                                  Sangita Thapa Abhishes Karn.                                                                          Critical analysis of net zero pathways for affordable housing in India Surjyatapa Ray Choudhury, Nithya Ramesh                                              Cleaning, Restoration, and Inspection Standards: What Are They, and Why Do We Need Them?                                                                                          Mili Washington.                                                                                               Towards more holistic rating systems for green and healthy buildings Vaibhav Lawange, Sameer Patel",
+      "value": "Keynote                                                                           Cognitive performance across the adaptive comfort zone.                                                                                    Richard de Dear, The University of Sydney",
       "bg": "#ffffff"
     },
     {
@@ -629,7 +631,29 @@
   ],
   [
     {
-      "value": "12:30 pm - 01:15 pm",
+      "value": "11:00 - 12:30",
+      "bg": "#ffffff"
+    },
+    {
+      "value": "Oral Presentations                                                              Policy and Standards Trends, Impacts, Implications, and Advocacy                                                                                                                   ",
+      "bg": "#ffffff"
+    },
+    {
+      "value": "",
+      "bg": "#ffffff"
+    },
+    {
+      "value": "",
+      "bg": "#ffffff"
+    },
+    {
+      "value": "",
+      "bg": "#ffffff"
+    }
+  ],
+  [
+    {
+      "value": "12:30 - 01:15",
       "bg": "#ffffff"
     },
     {
@@ -651,11 +675,11 @@
   ],
   [
     {
-      "value": "01:15 pm - 02:15 pm",
+      "value": "01:15 - 02:15",
       "bg": "#ffffff"
     },
     {
-      "value": "Panel Discussion                                                                                                        ?Do Standards and Ceritications help foster or hinder the progress towards achieving healthy built environments for all?",
+      "value": "Panel Discussion                                                                                                        Do Standards and Ceritications help foster or hinder the progress towards achieving healthy built environments for all?                                           Moderator :- Simon Jones                                           Panelist:- William Bahnfleth, Priyanka Kulshrestha, Yash Shukla, Nidhi Gupta?                                           ",
       "bg": "#ffffff"
     },
     {
@@ -673,7 +697,7 @@
   ],
   [
     {
-      "value": "02:15 pm - 03:30 pm",
+      "value": "02:15 - 03:30",
       "bg": "#ffffff"
     },
     {
