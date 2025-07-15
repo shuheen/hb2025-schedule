@@ -3,38 +3,46 @@
     {
       "value": " 18/8/2025             Day 1               Monday",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 12,
       "colspan": 1
     },
     {
       "value": "Time ",
-      "bg": "#deeaf6"
+      "bg": "#deeaf6",
+      "fontColor": "#000000"
     },
     {
       "value": "Main Auditorium",
-      "bg": "#00b050"
+      "bg": "#00b050",
+      "fontColor": "#ffffff"
     },
     {
       "value": "Seminar Hall 1",
-      "bg": "#ff0000"
+      "bg": "#ff0000",
+      "fontColor": "#ffffff"
     },
     {
       "value": "Seminar Hall 2",
-      "bg": "#7030a0"
+      "bg": "#7030a0",
+      "fontColor": "#ffffff"
     },
     {
       "value": "Lecture Hall ",
-      "bg": "#b15d24"
+      "bg": "#b15d24",
+      "fontColor": "#ffffff"
     }
   ],
   [
     {
       "value": "08:00 - 10:00",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Registration",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 1,
       "colspan": 4
     }
@@ -42,77 +50,94 @@
   [
     {
       "value": "09:00 - 10:00",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Inaguration",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "10:00 - 10:45",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Keynote Lecture\nMastering IAQ: the 5Ws and H Decoded\nChandra Sekhar, National University of Singapore",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "10:45 - 11:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Keynote Lecture                                                         Continuous Indoor Air Quality Sensing: The Next Frontier of the Built Environment                                  Dusan Licina, EPFL , Switerland",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "11:30 -12:00",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Networking Tea Break",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 1,
       "colspan": 4
     }
@@ -120,33 +145,40 @@
   [
     {
       "value": "12:15 - 01:00",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Keynote Lecture # 3",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "01:00 - 01:45",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Lunch",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 1,
       "colspan": 4
     }
@@ -154,33 +186,40 @@
   [
     {
       "value": "01:45 - 03:15",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop by EPFL                                                                                    Development and Exploitation of the First Global IAQ Database                                                                              Bowen Du, Dusan Licina, Corinne Mandin, Pawel Wargocki           ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop by ICHHA                                                                                          Making new and existing buildings conducive to prevention of infection -an Indian experience                                                                                                 Vijay Yeldandi,  Satish Kaipilyawar,  Sampada Bhide, Aditi U. Jani,  Raja Singh",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Online Presentations                                                                                                                                                                                                                                                                                                    ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Oral Presentations                                                         Advanced Room Air Distribution and Ventilation                                       ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "03:15 - 03:45",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Tea Break ",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 1,
       "colspan": 4
     }
@@ -188,57 +227,69 @@
   [
     {
       "value": "03:45 - 05:00",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Oral Presentations\nChallenges of Achieving Healthy Buildings in Developing Economies                                                                                                                                                                                   ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Oral Presentations                                                            Indoor Environmental Quality (IEQ) monitoring and Performance metrics, Sensors, IoT, Measurement protocols, Dashboards, Data Analytics                                                                                                                              ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Oral Presentations                                                          Design: Human-Centric Design and HVAC Strategies for Occupant Comfort, Health, and Well-Being                                                                                                                                               ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "07:00 - 09:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Cultural Night followed by Dinner",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "19/8/2025             Day 2               Tuesday",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 10,
       "colspan": 1
     },
     {
       "value": "19/8/2025             Day 2               Tuesday",
       "bg": "#941651",
+      "fontColor": "#ffffff",
       "rowspan": 1,
       "colspan": 5
     }
@@ -246,55 +297,67 @@
   [
     {
       "value": "08:45 - 09:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Keynote Lecture                                                                   Toxins in the Indoor Environment: Contaminants from Workplaces and the Ambient Environment                                                 Arthur Frank, Drexel University",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "09:30 - 10:15",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Keynote Lecture                                                              Beyond Health & Comfort: Exploring retrofit impacts on resident wellbeing                                                           Marianne Touchie, University of Toronto",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "10:15 - 11:00 ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Tea Break ",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 1,
       "colspan": 4
     }
@@ -302,33 +365,40 @@
   [
     {
       "value": "11:00 - 12:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "                                                                                           Workshop by Centre For Sustainability, Mahindra University                                                                              From Research to Reality : Bridging Air Quality Science, Industry and Policy for Healthier Urban Built Environment.                                                                        Mukesh Sharma, Akanksha Priyadarshini, Anirban Ghosh, S. Narsing Rao, Sunita Purushottam, Prarthana Borah.\n",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop by GBCI                                                                                               Indoor Environmental Quality In Indian Offices And Its Impact On Office Workers- Research Insights And Measurement Protocols                                                                           Pooja Shukla, Shashank Mishra, Shailee Goswami, Anjana R",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Oral Presentations                                                       Airborne Infection Transmission, Control, and Molds                                                                                                                 ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Oral Presentations                                                                  IEQ Monitoring, Performance Metrics, Sensors, IoT, MeasurementProtocols, Dashboards, Data Analytics                                                                                                                                                                                      ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "12:30 - 01:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Lunch along with Job Seekers Session in Expo Area",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 1,
       "colspan": 4
     }
@@ -336,55 +406,67 @@
   [
     {
       "value": "01:30 - 02:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Panel Discussion on                                                                                                 Is IAQ research on the right track or veering off course ?                                                                      Moderator :- Corinne Mandin                                  Panelist:-   Ardeshir Mahdavi, Prasanth Kumar, Priya Rajagopalan                   ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "02:30 - 04:00",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop by GBPN                                                                                                 Healthy Buildings, Healthy Lives: A Workshop on Scaling Health and Well-Being Design Measures in India?s Affordable Housing Program\nAshok B Lall, Aafsha Kansal, Gautam Nagar, Girisha Sethi, Kate Mcfarlane, Maaz Dixit, Peter Graham, Prashant Bhanware, Saswati Chetia",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop on                                                                                                  Improving Indoor Environmental Quality: Balancing Affordability and Sustainability                                                                                                 KRITHIKA PANICKER, Ajith Nair, Ardeshir Mahdavi, Christiane Berger, Prashant Anand, Deepa Rani, Abraham George",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "IIT Bombay's Curated Session                              \"Institutional Frameworks for Improving Indoor Air Quality in Air-Conditioned Classrooms and Corporate Offices?                                                                                 Only invited participants and guests are permitted to attend this session.",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Session by EDS Global                                        Implementing Healthy Buildings: Success Stories          Gurneet Singh, Nidhi Gupta, Lakshmy N, Mariyam Zakiah",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "04:00 - 04:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Tea Break & Continuation of Job Seeker Session",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 1,
       "colspan": 4
     }
@@ -392,35 +474,42 @@
   [
     {
       "value": "04:30 - 06:00",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop by University of Cork                                                                  Charting the future of classroom indoor climate research in the Global South ? Learnings from community engaged research and design thinking.                                                                                                                      Asit Kumar Mishra, Eilis O?Reilly, Pawel Wargocki",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop by University of Nirma University                                                                                                                            Enhancing Indoor Thermal Comfort in Residential Buildings through NaturalVentilation: A Hands-On CFD Simulation Workshop                                          Krishan Upadhyay, Shobhit Chaturvedi",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Camfil Presents Oral Presentations                        Aerosols, Particulate Matter, VOC's and Air Cleaning                                                                                                                                                 ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Oral Presentations                                                         Thermal Comfort Including Personal Comfort Systems, Adaptive Comfort,Dynamic Thermal Perception and Aliesthesia                                                                                                                                                                                                            \n",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "20/8/2025             Day 3               Wednesday",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 9,
       "colspan": 1
     },
     {
       "value": "20/8/2025             Day 3               Wednesday",
       "bg": "#941651",
+      "fontColor": "#ffffff",
       "rowspan": 1,
       "colspan": 5
     }
@@ -428,55 +517,67 @@
   [
     {
       "value": "09:00 - 09:45",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Keynote Lecture                                                             Bridging Domains: Emphasizing Human Needs in the Quest for Human-Building-Resilience                                            Marcel Schweiker, RWTH Aachen University",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "09:45 - 10:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Keynote #7",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "10:30 - 11:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Tea Break with Poster Session at Expo Area                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 1,
       "colspan": 4
     }
@@ -484,33 +585,40 @@
   [
     {
       "value": "11:30 - 01:00",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Panel Discussion by Thrive                                         Healthy Buildings Revisited: Scientific, Regulatory, and Practical Perspectives on IAQ and IEQ\"Productivity, and Equity (AIR).                  Moderator :- Udita Gupta                                           Panelist:- Tham Kwok Kai, Pawel Wargocki, Chirag Deb, Srinidhi Balasubramanian?        \n",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop by                                                                          Society for Indoor Environments (SIE)                                           Advancing Indoor Research for Health, Productivity, and Equity (AIR)\n Mukesh Khare, Rakesh Kumar, Priyanka Kulshreshtha, Sri Harsha Kota",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop By Drexel University                                       Research to Policy to Action: Asbestos, Indoor Air and Healthy Buildings                                                                         Raja Singh, Arthur L Frank",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Oral Presentations                                                                 IEQ Monitoring, Performance Metrics, Sensors, IoT, Measurement Protocols, Dashboards, Data Analytics                                                                                                                  ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#bd6427"
     }
   ],
   [
     {
       "value": "01:00 - 02:00",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Lunch Break with Job Provider Session",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 1,
       "colspan": 4
     }
@@ -518,33 +626,40 @@
   [
     {
       "value": "02:00 - 03:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop by IIT Kanpur                                                                  Sleep architecture in Hot Climates: How participatory approach can improve health and work productivity in developing nations                                                                                               Anubha goel, Pawel wargocki, Arjun Ramakrishnan",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "                                                                                                               Oral Presentations                                                         Thermal Comfort, Resilience and IEQ                                           \n\n\n\n",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop on                                                                             Behavioural Changes and Seasonal Adaptations for Enhanced Indoor Air Quality and Energy Efficiency\t \nE V S Kiran Kumar Donthu, Nikhil Kumar, Tanya Kaur Bedi",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop on                                                                                     Indoor Air Quality, Thermal Comfort, and Air Distribution in Healthy Buildings\nYashkumar Shukla, Krishnan Viswanath, Nitin Naik",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "03:30 - 04:00",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Tea Break ",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 1,
       "colspan": 4
     }
@@ -552,35 +667,42 @@
   [
     {
       "value": "04:00 - 05:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Oral Presentations                                                          Thermal Comfort Including Personal Comfort Systems, Adaptive Comfort, Dynamic Thermal Perception and Aliesthesia                                                                                                     ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop on                                                                                                  Optimizing Air Purifier Performance in High-Rise Commercial Buildings for Urban Air Quality Management                                                                 Nishanth Kapoor,  Sandeep Budde, NVSS Manapragada",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Workshop on                                                                                  Learning Cognitive Neurobehavioral Assessment Tools and their relation to Indoor Environmental Quality\t \nPiyali Debnath, Prashant Anand",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Oral Presentations                                                      Occupant Behavior, Lighting and Acoustics                                       ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "21/8/2025             Day 4               Thrusday",
       "bg": "#ffffff",
+      "fontColor": "#000000",
       "rowspan": 7,
       "colspan": 1
     },
     {
       "value": "21/8/2025             Day 4               Thrusday",
       "bg": "#941651",
+      "fontColor": "#ffffff",
       "rowspan": 1,
       "colspan": 5
     }
@@ -588,133 +710,163 @@
   [
     {
       "value": "09:00 - 09:45",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Keynote                                                                   Demystifying Healthy Buildings: A Call for a Wider Practical Application and Affordability                      Pawel Wargocki , Denmark Technical University ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "09:45 - 10:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Keynote                                                                           Cognitive performance across the adaptive comfort zone.                                                                                    Richard de Dear, The University of Sydney",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "11:00 - 12:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Oral Presentations                                                              Policy and Standards Trends, Impacts, Implications, and Advocacy                                                                                                                   ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "12:30 - 01:15",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Lunch",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "01:15 - 02:15",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Panel Discussion                                                                                                        Do Standards and Ceritications help foster or hinder the progress towards achieving healthy built environments for all?                                           Moderator :- Simon Jones                                           Panelist:- William Bahnfleth, Priyanka Kulshrestha, Yash Shukla, Nidhi Gupta?                                           ",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ],
   [
     {
       "value": "02:15 - 03:30",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "Closing Ceremony",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     },
     {
       "value": "",
-      "bg": "#ffffff"
+      "bg": "#ffffff",
+      "fontColor": "#000000"
     }
   ]
 ]
