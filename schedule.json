@@ -35,7 +35,9 @@
     {
       "value": " 18/8/2025             Day 1               Monday",
       "bg": "#ffffff",
-      "fontColor": "#000000"
+      "fontColor": "#000000",
+      "rowspan": 11,
+      "colspan": 1
     },
     {
       "value": "08:00 - 10:00",
@@ -51,11 +53,6 @@
     }
   ],
   [
-    {
-      "value": "]",
-      "bg": "#ffffff",
-      "fontColor": "#000000"
-    },
     {
       "value": "09:00 - 10:00",
       "bg": "#ffffff",
@@ -84,11 +81,6 @@
   ],
   [
     {
-      "value": "",
-      "bg": "#ffffff",
-      "fontColor": "#000000"
-    },
-    {
       "value": "10:00 - 10:45",
       "bg": "#ffffff",
       "fontColor": "#000000"
@@ -115,11 +107,6 @@
     }
   ],
   [
-    {
-      "value": "",
-      "bg": "#ffffff",
-      "fontColor": "#000000"
-    },
     {
       "value": "10:45 - 11:30",
       "bg": "#ffffff",
@@ -148,11 +135,6 @@
   ],
   [
     {
-      "value": "",
-      "bg": "#ffffff",
-      "fontColor": "#000000"
-    },
-    {
       "value": "11:30 -12:00",
       "bg": "#ffffff",
       "fontColor": "#000000"
@@ -166,11 +148,6 @@
     }
   ],
   [
-    {
-      "value": "",
-      "bg": "#ffffff",
-      "fontColor": "#000000"
-    },
     {
       "value": "12:15 - 01:00",
       "bg": "#ffffff",
@@ -199,11 +176,6 @@
   ],
   [
     {
-      "value": "",
-      "bg": "#ffffff",
-      "fontColor": "#000000"
-    },
-    {
       "value": "01:00 - 01:45",
       "bg": "#ffffff",
       "fontColor": "#000000"
@@ -217,11 +189,6 @@
     }
   ],
   [
-    {
-      "value": "",
-      "bg": "#ffffff",
-      "fontColor": "#000000"
-    },
     {
       "value": "01:45 - 03:15",
       "bg": "#ffffff",
@@ -250,11 +217,6 @@
   ],
   [
     {
-      "value": "",
-      "bg": "#ffffff",
-      "fontColor": "#000000"
-    },
-    {
       "value": "03:15 - 03:45",
       "bg": "#ffffff",
       "fontColor": "#000000"
@@ -268,11 +230,6 @@
     }
   ],
   [
-    {
-      "value": "",
-      "bg": "#ffffff",
-      "fontColor": "#000000"
-    },
     {
       "value": "03:45 - 05:00",
       "bg": "#ffffff",
@@ -300,11 +257,6 @@
     }
   ],
   [
-    {
-      "value": "",
-      "bg": "#ffffff",
-      "fontColor": "#000000"
-    },
     {
       "value": "07:00 - 09:30",
       "bg": "#ffffff",
